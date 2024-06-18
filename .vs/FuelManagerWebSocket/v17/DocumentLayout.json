@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Windows\\Documents\\P\u00F3s\\API\\FuelManagerWebSocket\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{905505F3-5860-4A1A-8BD1-F5BB0C9CABD4}|ApiWebHttpStreaming\\ApiWebHttpStreaming.csproj|c:\\users\\windows\\documents\\p\u00F3s\\api\\fuelmanagerwebsocket\\apiwebhttpstreaming\\controllers\\fibcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{905505F3-5860-4A1A-8BD1-F5BB0C9CABD4}|ApiWebHttpStreaming\\ApiWebHttpStreaming.csproj|solutionrelative:apiwebhttpstreaming\\controllers\\fibcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FibController.cs",
+              "DocumentMoniker": "C:\\Users\\Windows\\Documents\\P\u00F3s\\API\\FuelManagerWebSocket\\ApiWebHttpStreaming\\Controllers\\FibController.cs",
+              "RelativeDocumentMoniker": "ApiWebHttpStreaming\\Controllers\\FibController.cs",
+              "ToolTip": "C:\\Users\\Windows\\Documents\\P\u00F3s\\API\\FuelManagerWebSocket\\ApiWebHttpStreaming\\Controllers\\FibController.cs",
+              "RelativeToolTip": "ApiWebHttpStreaming\\Controllers\\FibController.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAiwDgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T00:35:06.109Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
